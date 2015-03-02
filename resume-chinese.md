@@ -43,11 +43,11 @@
 ## 其它
 * 熟悉Linux(Fedora)，了解Shell(Bash)编程
 * 了解Groovy脚本
-* 了解C，C++
-* 了解HTML5，Javascript；了解Websocket，WebGL
-* 了解Intel x86，x64和ARM汇编
-* 了解Android开发(大学毕设)
-* 了解Rust
+* 能用C/C++写一些小程序
+* 曾用Websocket，webGL开发过小游戏
+* 能看懂Intel x86，x64和ARM汇编
+* 大学毕设包含一个简单的Android客户端
+* 正在学习Rust
 * 主要使用Google解决技术问题
 * 主要关注的技术网站: Hacker News, InfoQ, TechCrunch, Engadget, phoronix, GitHub
 * 会科学上网
