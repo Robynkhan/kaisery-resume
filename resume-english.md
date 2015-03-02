@@ -43,7 +43,7 @@
 * Familiar with rpm-based Linux like Fedora, can write some bash script
 * Understanding Groovy
 * Can Write some C/C++ code
-* Have written HTML5, Javascript app using Websocket, WebGL
+* Have written a small game using Websocket, WebGL
 * Can read Intel x86, x64 and ARM assembly language
 * Graduation project was an Android app
 * Learning Rust
