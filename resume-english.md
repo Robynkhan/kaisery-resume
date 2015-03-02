@@ -45,7 +45,7 @@
 * Can Write some C/C++ code
 * Have written a small game using Websocket, WebGL
 * Can read Intel x86, x64 and ARM assembly language
-* Graduation project was an Android app
+* Graduation project included a small Android client app
 * Learning Rust
 * Used to solve technical problem through Google
 * Focused technical site: Hacker News, InfoQ, TechCrunch, Engadget, phoronix, GitHub
