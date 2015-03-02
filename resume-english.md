@@ -10,15 +10,20 @@
 
 ## Education
 ### Taijin University of Science & Technology
+* International College
+* Bachelor of CSIE
+* The First Prize Scholarship at 1st/2nd year
+* 2009 ~ 2013
 
-
-International College
-
-
-Bachelor of CSIE
-
-
-2009 ~ 2013
+## Language Abilities
+* English: CET6
+* Japanese: N1
 
 ## Experience
-### 
+### ANHUI WANTONG TECHNOLOGY Co.,Ltd. Research Center, Taijin
+#### ANHUI Expressway Toll Collection System, 2012 Nov ~ 2014 Jan
+* This system was written in C#, and I was assigned to maintain the Hardware Abstraction Layer(abbr. for HAL below) and add new features according to new demand.
+* WinForm Desktop Application, IDE was Visual Studio.
+* Most hardware connected to computer with serial port or Ethernet, So I developed good skills at serial port communication, TCP/IP protocols and calling C/C++ DLLs(P/Invoke).
+* Due to IC card reader, I was familiar with card operation and Chinese Financial IC Card Standard.
+* In This period of work, I have learned developing enterprise software using C#, Version Control with SVN and team collaboration through JIRA.
