@@ -26,4 +26,7 @@
 * WinForm Desktop Application, IDE was Visual Studio.
 * Most hardware connected to computer with serial port or Ethernet, So I developed good skills at serial port communication, TCP/IP protocols and calling C/C++ DLLs(P/Invoke).
 * Due to IC card reader, I was familiar with card operation and Chinese Financial IC Card Standard.
-* In This period of work, I have learned developing enterprise software using C#, Version Control with SVN and team collaboration through JIRA.
+* In this period of work, I have learned developing enterprise software using C#, Version Control with SVN and team collaboration through JIRA.
+#### ANHUI Expressway Toll Collection System Flat Version, 2014 Jan ~ 
+* This project was a newer and larger version of previous project which focused on entire road system intercommunication(pure JAVA implemented) and cross platform(Windows/Linux).
+* 
