@@ -7,6 +7,7 @@
 * 手机: 13821067407
 * 邮箱: yueyang.fanqiang@gmail.com
 *   QQ: 995137302
+* GitHub: https://github.com/KaiserY
 
 ## 学历
 ### 天津科技大学(TUST)
