@@ -7,6 +7,7 @@
 * Mobile +86 138 2106 7407
 * Email yueyang.fanqiang@gmail.com
 * QQ 995137302
+* GitHub: https://github.com/KaiserY
 
 ## Education
 ### Taijin University of Science & Technology
