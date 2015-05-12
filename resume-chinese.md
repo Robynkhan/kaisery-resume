@@ -49,6 +49,6 @@
 * 能看懂Intel x86，x64和ARM汇编
 * 大学毕设包含一个简单的Android客户端
 * 正在学习Rust
-* 能快速使用Google解决技术问题
+* 能用Google解决技术问题
 * 关注业内前沿技术资讯: Hacker News, InfoQ, TechCrunch, Engadget, phoronix, GitHub
 * 会科学上网
