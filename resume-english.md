@@ -36,8 +36,8 @@
 * I was committed to design and implement the entire HAL, Windows/Linux platform compatibility and data transition between new and old system。
 * The whole device layer implemented with multi-thread and asynchronous call. Every kind of device has a execution thread，and there was a status thread monitoring all execution threads, releasing resources and handling exception if necessary, guaranteeing devices to response fast and be isolated from other components. As a result of alpha test, devices were as fast as when they ran in C#.
 * Because we need to display video, I used a JAVA FFmpeg wrapper called Xuggle.
-* Writing most analog device applications, using AWT, for QA auto-testing project without production environment.
-* Writing cross platform deployment scheme, including multi-system switch, booting script, device driver installation, etc...
+* Written most device simulation applications, using AWT, for QA auto-testing project without production environment.
+* Written cross platform deployment scheme, including multi-system switch, booting script, device driver installation, etc...
 * At the alpha test period, I wrote a LINQ to SQL new/old system data transfer app, because old system running on Windows Server using SQL Server , to acquire data consistency. 
 * Troubleshooting some technical issues, e.g., analysing jvm heapdump to find out memory leak; using jmc, jvisualvm to monitor jvm status.
 
@@ -48,7 +48,7 @@
 * Have written a small game using Websocket, WebGL
 * Can read Intel x86, x64 and ARM assembly language
 * Graduation project included a small Android client app
-* Learning Rust
+* Learning Rust, translating rust book & reference
 * Used to solve technical problem through Google
 * Focused on new tech & info: Hacker News, InfoQ, TechCrunch, Engadget, phoronix, GitHub
 * Ability surf the Internet using proxy
