@@ -47,7 +47,7 @@
 * This project was a newer and larger version of previous project which focused on entire road system intercommunication(pure `Java` implemented) and cross platform(`Windows`/`Linux`).
 * SWT desktop application, IDE was `Eclipse`, package control was `Maven`, workflow was `Activiti` and database was `H2`.
 * Using `Hudson` CI for rapid iteration and `Findbugs` for code quality.
-* Participated in the whole Toll project's design and coding, as a core programmer. I was committed to design and implement the entire HAL, ``Windows`/`Linux` platform compatibility and data transition between new and old system.
+* Participated in the whole Toll project's design and coding, as a core programmer. I was committed to design and implement the entire HAL, `Windows`/`Linux` platform compatibility and data transition between new and old system.
 * The whole device layer implemented with multi-thread and asynchronous call. Each kind of device has a execution thread，and there was one status thread monitoring all execution threads, releasing resources and handling exception if necessary, guaranteeing devices to response fast and be isolated from other components. As a result of trail run, devices operated as fast as when they did in `C#`.
 * Because we need to display video, I used a `Java` `FFmpeg` wrapper called `Xuggle`.
 * Written most device simulation applications, using AWT, for QA auto-testing project without production environment.
