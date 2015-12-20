@@ -51,9 +51,7 @@
 #### 数据观（shujuguan.cn） 2015年4月 -
 * 互联网+数据分析产品(SaaS)，类似 SiSence 和 DataHero。使用公司自主数据库做分析引擎。敏捷团队，Scrum + Kanban。
 * UserStory：后台服务（数据类型识别、第三方数据源支持、单元测试等）、从 SVN 迁移到 Git、确定 Git branching model、Nodejs 的百度位置查询服务
-
-###### **技术栈**
-* 开发：**Java 8**、**Spring MVC**、**JUnit**、**Findbugs**、**Apache POI**、`jOOQ`、`ThinkPHP`、`OpenCenter`、`Wordpress`、**Express**、**Babel**、`Backbone`、`Highcharts`、`ECharts`、`Underscore`
-* 数据：**MongoDB**、`GBase 8a`、`Redis`
-* DevOps：**GitLab**、**Asana**、**Jenkins**、**Maven**、`LAMP`、`Grunt`、**Gulp**、**Docker**
+* **开发栈：** **Java 8**、**Spring MVC**、**JUnit**、**Findbugs**、**Apache POI**、`jOOQ`、`ThinkPHP`、`OpenCenter`、`Wordpress`、**Express**、**Babel**、`Backbone`、`Highcharts`、`ECharts`、`Underscore`
+* **数据栈：** **MongoDB**、`GBase 8a`、`Redis`
+* **DevOps栈：** **GitLab**、**Asana**、**Jenkins**、**Maven**、`LAMP`、`Grunt`、**Gulp**、**Docker**
 * **总结：**
