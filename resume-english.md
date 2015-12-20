@@ -1,19 +1,21 @@
 # Resume
 
 ## Personal
-* 岳洋
-* Male
-* Birthday: 1991 Feb 15
-* Location: living in `Tianjin`, home's in `HuBei`
-* Mobile: +86 138 2106 7407
-* Email: yueyang.fanqiang@gmail.com 995137302@qq.com
-* QQ: 995137302
+| Name | Gender | Address  | Home |
+|:----:|:---:|:------:|:----:|
+| 岳洋 | Male | Tianjin | Hubei |
+
+* Mobile: `Kzg2IDEzOCAyMTA2IDc0MDc=`
+* Email: `eXVleWFuZy5mYW5xaWFuZ0BnbWFpbC5jb20=` `OTk1MTM3MzAyQHFxLmNvbQ==`
 * GitHub: https://github.com/KaiserY
+
+# Expect position
+* Full Stack Developer(more backend)
+* Data mining
 
 ## Education
 ### Taijin University of Science & Technology
-* International College
-* Bachelor of CSIE
+* International College, Bachelor of CSIE
 * The First Prize Scholarship at 1st/2nd year
 * 2009 ~ 2013
 
@@ -22,14 +24,12 @@
 * Japanese: `N1`
 
 ## Summary
-
 * Quick Learner, Good at solving problems though `Baidu`/`Google`
-* Mostly used languages: `C#` `Java`
-* Languages I know: `C/C++` `VB` `Javascript` `PHP` `Assembly`
-* Languages I was learning: `Rust` `Scala`(functional programming)
-* Familiar with `Fedora`, can write some `Bash` scripts
-* Mostly visited website: `Hacker News` `InfoQ` `TechCrunch` `Engadget` `phoronix` `GitHub` `V2EX` `36kr`
-* Ability to surf the Internet with proxy
+* Mostly used languages: `Java`、`Nodejs`、`PHP`、`C#`
+* Languages I am learning: `Rust`、`Python`、`Go`
+* Working system environment: `Fedora Workstation 23`、`Gnome 3`、`Oh My Zsh`
+* Mostly visited website: `Hacker News`、`InfoQ`、`TechCrunch`、`Engadget`、`phoronix`、`V2EX`、`36kr`
+* Accessing the web, download & update software through proxy
 
 ## Experience
 ### ANHUI WANTONG TECHNOLOGY Co.,Ltd. Research Center, `Taijin`, `2012 Nov` ~ `2015 Apr`
@@ -52,7 +52,7 @@
 * Because we need to display video, I used a `Java` `FFmpeg` wrapper called `Xuggle`.
 * Written most device simulation applications, using AWT, for QA auto-testing project without production environment.
 * Written cross platform deployment scheme, including multi-system switch, booting script, device driver installation, etc...
-* At the trail run period, I wrote a `LINQ to SQL` new/old system data transfer app, because old system running on `Windows Server` using `SQL Server` , to acquire data consistency. 
+* At the trail run period, I wrote a `LINQ to SQL` new/old system data transfer app, because old system running on `Windows Server` using `SQL Server` , to acquire data consistency.
 * Troubleshooting some technical issues, e.g., analysing jvm heapdump to find out memory leak; using `jmc`, `jvisualvm` to monitor jvm status, modifying device driver code to improve JNA call.
 
 ##### Conclusion: This period gave me a complete experience of a `Java` project, from design to trail run, I was part of it. But due to lots of business trip(130+ days a year) and overtime working climate, sadly, I left this company.

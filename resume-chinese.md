@@ -5,8 +5,8 @@
 |:----:|:---:|:--:|:------:|:----:|
 | 岳洋 | 男 | 本科 | 天津 | 湖北 |
 
-* 手机: `13821067407`
-* 邮箱: `yueyang.fanqiang@gmail.com`、`995137302@qq.com`
+* 手机: `MTM4MjEwNjc0MDc=`
+* 邮箱: `eXVleWFuZy5mYW5xaWFuZ0BnbWFpbC5jb20=`、`OTk1MTM3MzAyQHFxLmNvbQ==`
 * `GitHub`: https://github.com/KaiserY
 
 ## 期望发展方向
@@ -20,8 +20,8 @@
   * 2009-2013
 
 ## 语言
-* 英语: CET6
-* 日语: N1
+* 英语: `CET6`
+* 日语: `N1`
 
 ## 简述
 * 善于学习，善于通过`Baidu`/`Google`解决问题
@@ -29,12 +29,12 @@
 * 正在学习的语言：`Rust`、`Python`、`Go`
 * 工作系统环境：`Fedora Workstation 23`、`Gnome 3`、`Oh My Zsh`
 * 常逛的网站：`Hacker News`、`InfoQ`、`TechCrunch`、`Engadget`、`phoronix`、`V2EX`、`36kr`
-* 会科学上网，以及通过代理下载，更新软件
+* 会科学上网，以及通过代理下载、更新软件
 
 ## 工作经历
 ### 皖通科技研发中心(天津) 2012年11月 - 2015年4月
 #### 安徽省高速公路收费系统 2012年11月 - 2014年1月
-* 行业软件，本人主要负责维护硬件抽象层和按照新需求添加功能。
+* 行业软件。本人主要负责维护硬件抽象层和按照新需求添加功能。
 * 技术主要涉及串口连接，自定义 TCP 协议以及调用动态库
 * **技术栈：** **C#(.NET 4.0)**、**WinForm**、`SQL Server`、`SVN`、`JIRA`
 * **总结：** 这个项目的工作经历教会了我使用 C# 开发企业级应用，版本控制(SVN)以及团队沟通(JIRA)。
