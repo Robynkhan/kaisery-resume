@@ -9,7 +9,7 @@
 * Email: `eXVleWFuZy5mYW5xaWFuZ0BnbWFpbC5jb20=` `OTk1MTM3MzAyQHFxLmNvbQ==`
 * GitHub: https://github.com/KaiserY
 
-# Expect position
+# Expecting position
 * Full Stack Developer(more backend)
 * Data mining
 
@@ -19,40 +19,37 @@
 * The First Prize Scholarship at 1st/2nd year
 * 2009 ~ 2013
 
-## Language Abilities
-* English: `CET6`
-* Japanese: `N1`
-
 ## Summary
 * Quick Learner, Good at solving problems though `Baidu`/`Google`
-* Mostly used languages: `Java`、`Nodejs`、`PHP`、`C#`
-* Languages I am learning: `Rust`、`Python`、`Go`
-* Working system environment: `Fedora Workstation 23`、`Gnome 3`、`Oh My Zsh`
-* Mostly visited website: `Hacker News`、`InfoQ`、`TechCrunch`、`Engadget`、`phoronix`、`V2EX`、`36kr`
+* English: `CET6`
+* Japanese: `N1`
+* Languages Mostly used : `Java`, `C#`, `Nodejs`, `PHP`
+* Languages I am learning: `Scala`
+* Working system environment: `Fedora Workstation 23`, `Gnome 3`, `Oh My Zsh`
+* Mostly visited website: `Hacker News`, `InfoQ`, `TechCrunch`, `Engadget`, `phoronix`, `V2EX`, `36kr`
 * Accessing the web, download & update software through proxy
 
-## Experience
-### ANHUI WANTONG TECHNOLOGY Co.,Ltd. Research Center, `Taijin`, `2012 Nov` ~ `2015 Apr`
+## Working experience
+### General Data Technology Co., Ltd, `2015 Apr` ~
+#### Shujuguan(shujuguan.cn), `2015 Apr` ~
+* Internet plus data analysis product(SaaS), which was similar to SiSence and DataHero. Agile Team, Scrum and Kanban.
+* User Stories: backend service(data type recognition, third party datasource, unit test, etc.), migrate from SVN to Git, make a agile Git branching model, Baidu location API service based no Nodejs.
+* **App Stacks:** **Java 8**、**Spring MVC**、**JUnit**、**Findbugs**、**Apache POI**、`jOOQ`、`ThinkPHP`、`OpenCenter`、`Wordpress`、**Express**、**Babel**、`Backbone`、`Highcharts`、`ECharts`、`Underscore`
+* **Data Stacks:** **MongoDB**、`GBase 8a`、`Redis`
+* **DevOps Stacks:** **GitLab**、**Asana**、**Jenkins**、**Maven**、`LAMP`、`Grunt`、**Gulp**、**Docker**
+* **Conclusion:** To be continued
+
+### ANHUI WANTONG TECHNOLOGY Co.,Ltd, Taijin Research Center, `2012 Nov` ~ `2015 Apr`
 #### ANHUI Expressway Toll Collection System, `2012 Nov` ~ `2014 Jan`
-
-* This system was written in `C#`(`.NET 4.0`), and I was assigned to maintain the Hardware Abstraction Layer(abbr. for HAL below) and add new features according to new demand.
-* WinForm Desktop Application, IDE was `Visual Studio`, database was `SQL Server`.
-* Most hardware connected to computer with serial port or Ethernet, So I developed good skills at serial port communication, `TCP/IP` protocols and calling `C/C++` DLLs(`P/Invoke`).
-* Due to IC card reader, I was familiar with card operation and Chinese Financial IC Card Standard.
-
-##### Conclusion: In this period of work, I have learned developing enterprise software using `C#`, Version Control with `SVN` and team collaboration through `JIRA`.
+* Enterprise software. I was assigned to maintain the hardware interface and develop new features according to the demand.
+* Technically involved such as serial port, custom TCP protocol and calling the Dynamic Libraries.
+* **Stacks:** **C#(.NET 4.0)**, **WinForm**, `SQL Server`, `SVN`, `JIRA`
+* **Conclusion:** In this period of work, I have learned developing enterprise software using `C#`, Version Control with `SVN` and team collaboration through `JIRA`.
 
 #### ANHUI Expressway Toll Collection System Flat Version, `2014 Jan` ~ `2015 Apr`
-
-* This project was a newer and larger version of previous project which focused on entire road system intercommunication(pure `Java` implemented) and cross platform(`Windows`/`Linux`).
-* SWT desktop application, IDE was `Eclipse`, package control was `Maven`, workflow was `Activiti` and database was `H2`.
-* Using `Hudson` CI for rapid iteration and `Findbugs` for code quality.
-* Participated in the whole Toll project's design and coding, as a core programmer. I was committed to design and implement the entire HAL, `Windows`/`Linux` platform compatibility and data transition between new and old system.
-* The whole device layer implemented with multi-thread and asynchronous call. Each kind of device has a execution thread，and there was one status thread monitoring all execution threads, releasing resources and handling exception if necessary, guaranteeing devices to response fast and be isolated from other components. As a result of trail run, devices operated as fast as when they did in `C#`.
-* Because we need to display video, I used a `Java` `FFmpeg` wrapper called `Xuggle`.
-* Written most device simulation applications, using AWT, for QA auto-testing project without production environment.
-* Written cross platform deployment scheme, including multi-system switch, booting script, device driver installation, etc...
-* At the trail run period, I wrote a `LINQ to SQL` new/old system data transfer app, because old system running on `Windows Server` using `SQL Server` , to acquire data consistency.
-* Troubleshooting some technical issues, e.g., analysing jvm heapdump to find out memory leak; using `jmc`, `jvisualvm` to monitor jvm status, modifying device driver code to improve JNA call.
-
-##### Conclusion: This period gave me a complete experience of a `Java` project, from design to trail run, I was part of it. But due to lots of business trip(130+ days a year) and overtime working climate, sadly, I left this company.
+* This was a newer and larger version of previous project which including the whole system. Pure Java, and we switched the main running environment from Windows to Linux.
+* I was participated in design and development of the toll part. I was committed to design and implement the entire hareware interface, `Windows`/`Linux` platform compatibility and data transition between new and old system.
+* The whole device layer implemented with multi-thread and asynchronous callback. Each kind of device has an execution thread，and there was one status thread monitoring all execution threads, releasing resources and handling exception if necessary. Most of the interface were asynchronous, notifying the workflow through callback event.
+* Troubleshooting some technical issues, e.g., analysing JVM heapdump to find out memory leak; using `jmc`, `jvisualvm` to monitor JVM status, modifying device driver code to improve JNA call.
+* **Stacks:** **Java 8**, **Spring**, **Mave**, **Hudson**, **Findbugs**, **Xuggle**, **SWT**, **AWT**, **LINQ**, `H2`, `Activiti`, `Kafka`, `Sigar`, `SVN`, `JIRA`, `SQL Server`
+* **Conclusion:** This period gave me a comprehensive experience of a Java project, from design to trail run, I was part of it. But due to lots of business trip(130+ days a year) and overtime working climate, sadly, I left this company.
