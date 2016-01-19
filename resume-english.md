@@ -5,7 +5,7 @@
 |:----:|:---:|:------:|:----:|
 | 岳洋 | Male | Tianjin | Hubei |
 
-* Mobile: `Kzg2IDEzOCAyMTA2IDc0MDc=`
+* Mobile: `MTM4MjEwNjc0MDc=`
 * Email: `eXVleWFuZy5mYW5xaWFuZ0BnbWFpbC5jb20=` `OTk1MTM3MzAyQHFxLmNvbQ==`
 * GitHub: https://github.com/KaiserY
 
@@ -33,12 +33,15 @@
 ### General Data Technology Co., Ltd, `2015 Apr` ~
 #### Shujuguan(shujuguan.cn), `2015 Apr` ~
 * Internet plus data analysis product(SaaS), which aimed to be a competitor to `SiSence` and `DataHero`. Agile Team, Scrum and Kanban.
-* Agile Git branching model: Every `Sprint`(per 2 weeks), we created feature branch and maintenance branch from `master` branch, for merging new features and hotfix respectively.
-* **User Stories:** backend service(data type recognition, third party datasource support, unit test, machine learning, etc.), help our team migrate from SVN to Git, Baidu location API service based on Node.js.
-* **App Stacks:** **Spring MVC**, **JUnit**, **Findbugs**, **Apache POI**, **Spark**, `Morphia`, `Logback`, `jOOQ`, `ActiveMQ`, `ThinkPHP`, `Guzzle`, ~~Discuz!~~, `OpenCenter`, `Wordpress`, **Express**, **Babel**, `TypeScript`, `Backbone`, `Highcharts`, ~~ECharts~~, `Underscore`
+* **User Stories:**
+  * backend service: data type & format recognition, third party data source support(OAuth 2.0), unit test, machine learning.
+  * help our team migrate from SVN to Git. Agile Git branching model: integration branches every Sprint(per 2 weeks); Git submodule.
+  * Baidu location API service based on Express. CORS, node cluster, MongoDB cache.
+  * ELK based system log & user behavior collection system.
+* **App Stacks:** **Spring MVC**, **JUnit**, **Findbugs**, **Apache POI**, `Spark`, `Morphia`, `Logback`, `jOOQ`, `ActiveMQ`, `ThinkPHP`, `Guzzle`, ~~Discuz!~~, `OpenCenter`, `Wordpress`, **Express**, **Babel**, **Jasmine**, `TypeScript`, `Backbone`, `Highcharts`, ~~ECharts~~, `Underscore`
 * **Data Stacks:** **MongoDB**, `GBase 8a`, `Redis`, `MySQL`
-* **DevOps Stacks:** **GitLab**, ~~SVN~~, **Asana**, **Jenkins**, ~~Ant~~, **Maven**, `LAMP`, `nginx`, `Grunt`, **Gulp**, **ELK**, **Docker**, `aliyun`
-* **Conclusion:** This was my first in the Internet industry.
+* **DevOps Stacks:** **GitLab**, ~~SVN~~, **Asana**, **Jenkins**, ~~Ant~~, **Maven**, `LAMP`, `nginx`, ~~Grunt~~, **Gulp**, **ELK**, **Docker**
+* **Conclusion:** This was my first time working in an agile internet team. And I have tried lots of teches and system architecture.
 
 ### ANHUI WANTONG TECHNOLOGY Co.,Ltd, Taijin Research Center, `2012 Nov` ~ `2015 Apr`
 #### ANHUI Expressway Toll Collection System, `2012 Nov` ~ `2014 Jan`
