@@ -24,7 +24,7 @@
 * English: `CET6` Japanese: `N1`
 * Languages Mostly used : `Java`、`Node.js`、`PHP`、`C#`
 * Languages I am learning: `Scala`
-* Working system environment: `Fedora Workstation 23`, `Gnome 3`, `Oh My Zsh`
+* Working system environment: `Fedora Workstation 23`, `Gnome 3`, `Oh My Zsh`, `IDEA`, `Atom`
 * Mostly visited website: `Hacker News`, `InfoQ`, `TechCrunch`, `Engadget`, `phoronix`, `V2EX`, `36kr`, `Medium`
 * Accessing the web, download & update software through proxy
 
