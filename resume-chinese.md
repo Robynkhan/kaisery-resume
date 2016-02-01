@@ -1,23 +1,18 @@
 # 简历
 
 ## 个人信息
-| 姓名 | 性别| 所在地 | 老家 |
-|:----:|:---:|:------:|:----:|
-| 岳洋 | 男 | 天津 | 湖北 |
-
-* 手机: `MTM4MjEwNjc0MDc=`
-* 邮箱: `eXVleWFuZy5mYW5xaWFuZ0BnbWFpbC5jb20=`、`OTk1MTM3MzAyQHFxLmNvbQ==`
-* `GitHub`: https://github.com/KaiserY
+| 姓名 | 性别 | 所在地 | 老家 | 手机 | 邮箱 |
+|:----:|:---:|:------:|:----:|:----:|:----:|
+| 岳洋 | 男 | 天津 | 湖北 | MTM4MjEwNjc0MDc= | OTk1MTM3MzAyQHFxLmNvbQ== |
 
 ## 期望发展方向
 * 偏后端的全栈工程师
 * 数据挖掘、机器学习
 
 ## 教育
-* 天津科技大学(TUST)
-  * 国际学院 计算机科学与技术专业 本科
-  * 大一大二获校级一等奖学金
-  * 2009-2013
+  * 天津科技大学(TUST)
+    * 国际学院 计算机科学与技术专业 2009 - 2013 本科
+    * 大一大二获校级一等奖学金
 
 ## 简述
 * 善于学习，善于通过`Baidu` / `Google`解决问题
@@ -26,6 +21,7 @@
 * 正在学习的语言：`Scala`
 * 工作系统环境：`Fedora Workstation 23`、`Gnome 3`、`Oh My Zsh`、`IDEA`、`Atom`
 * 常逛的网站：`Hacker News`、`InfoQ`、`TechCrunch`、`Engadget`、`phoronix`、`V2EX`、`36kr`、`Medium`
+* `GitHub`: https://github.com/KaiserY
 * 会科学上网，以及通过代理下载、更新软件
 
 ## 工作经历
