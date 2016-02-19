@@ -1,9 +1,9 @@
 # 简历
 
 ## 个人信息
-| 姓名 | 性别 | 所在地 | 老家 | 手机 | 邮箱 |
-|:----:|:---:|:------:|:----:|:----:|:----:|
-| 岳洋 | 男 | 天津 | 湖北 | MTM4MjEwNjc0MDc= | OTk1MTM3MzAyQHFxLmNvbQ== |
+| 姓名 | 性别 | 生年 | 所在地 | 老家 | 手机 | 邮箱 |
+|:----:|:---:|:----:|:------:|:----:|:----:|:----:|
+| 岳洋 | 男 | 1991 | 天津 | 湖北 | 13821067407 | 995137302@qq.com |
 
 ## 简述
 * `GitHub`: https://github.com/KaiserY
@@ -16,7 +16,7 @@
 
 ## 教育
 * 天津科技大学(TUST)
-  * 国际学院 计算机科学与技术专业 2009 - 2013 本科
+  * 国际学院 计算机科学与技术专业 `2009 - 2013` 本科
   * 大一大二获校级一等奖学金
 
 ## 期望发展方向
@@ -24,7 +24,9 @@
 * 数据挖掘、机器学习
 
 ## 工作经历
-**粗体** 为本人熟悉的技术，~~删除线~~ 为不再使用的技术
+
+> **粗体** 为本人熟悉的技术，~~删除线~~ 为不再使用的技术
+
 ### 天津南大通用数据技术股份有限公司 2015 年 4 月 -
 #### 数据观（shujuguan.cn） 2015 年 4 月 -
 * 互联网+数据可视化分析产品（SaaS），意在与`SiSence`和`DataHero`等产品竞争。敏捷团队，Scrum + Kanban。
@@ -33,7 +35,7 @@
   * 帮助团队从 SVN 迁移到 Git。敏捷的 Git branching model：以`Sprint`为周期（每2周）的集成分支；Git submodule。
   * 基于 Express 的百度位置查询服务。CORS、node cluster、MongoDB 缓存。
   * 基于 ELK 的系统日志 & 用户行为收集系统。
-* **程序栈：** **Spring MVC**、**JUnit**、**Findbugs**、**Apache POI**、`Spark`、`Morphia`、`Logback`、`jOOQ`、`ActiveMQ `、`ThinkPHP`、`Guzzle`、~~Discuz!~~、`OpenCenter`、`Wordpress`、**Express**、**Babel**、**Jasmine**、`TypeScript`、`Backbone`、`Highcharts`、~~ECharts~~、`Underscore`
+* **程序栈：** **Spring MVC**、**JUnit**、**JMeter**、**Findbugs**、**Apache POI**、`Spark`、`Morphia`、`Logback`、`jOOQ`、`ActiveMQ `、`ThinkPHP`、`Guzzle`、~~Discuz!~~、`OpenCenter`、`Wordpress`、**Express**、**Babel**、**Jasmine**、`TypeScript`、`Backbone`、`Highcharts`、~~ECharts~~、`Underscore`
 * **数据栈：** **MongoDB**、`GBase 8a`、`Redis`、`MySQL`
 * **DevOps 栈：** **GitLab**、~~SVN~~、**Asana**、**Jenkins**、~~Ant~~、**Maven**、`LAMP`、`nginx`、~~Grunt~~、**Gulp**、**ELK**、**Docker**
 * **总结：** 第一次在敏捷的互联网团队工作。对各种技术和系统构架都进行了尝试。

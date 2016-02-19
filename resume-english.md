@@ -1,9 +1,9 @@
 # Resume
 
 ## Personal
-| Name | Gender | Address  | Home | Mobile | Email |
-|:----:|:---:|:------:|:----:|:----:|:----:|
-| 岳洋 | Male | Tianjin | Hubei | MTM4MjEwNjc0MDc= | OTk1MTM3MzAyQHFxLmNvbQ== |
+| Name | Gender |  Year of birth | Address | Home | Mobile | Email |
+|:----:|:------:|:--------------:|:-------:|:----:|:------:|:-----:|
+| 岳洋 | Male | 1991 | Tianjin | Hubei | 13821067407 | 995137302@qq.com |
 
 ## Summary
 * `GitHub`: https://github.com/KaiserY
@@ -16,7 +16,7 @@
 
 ## Education
 * Taijin University of Science & Technology
-  * International College, 2009 ~ 2013, Bachelor of CSIE
+  * International College, `2009 ~ 2013`, Bachelor of CSIE
   * The First Prize Scholarship at 1st/2nd year
 
 # Expecting position
@@ -24,7 +24,9 @@
 * Data mining, machine learning
 
 ## Working experience
-**Bold** are stuffs familiar to me and ~~Strikethrough~~ are something we were not using any more.
+
+> **Bold** are stuffs familiar to me and ~~Strikethrough~~ are something we were not using any more.
+
 ### General Data Technology Co., Ltd, `2015 Apr` ~
 #### Shujuguan(shujuguan.cn), `2015 Apr` ~
 * Internet plus data visualization analysis product(SaaS), which aimed to be a competitor to `SiSence` and `DataHero`. Agile Team, Scrum and Kanban.
@@ -33,7 +35,7 @@
   * help our team migrate from SVN to Git. Agile Git branching model: integration branches every Sprint(per 2 weeks); Git submodule.
   * Baidu location API service based on Express. CORS, node cluster, MongoDB cache.
   * ELK based system log & user behavior collection system.
-* **App Stacks:** **Spring MVC**, **JUnit**, **Findbugs**, **Apache POI**, `Spark`, `Morphia`, `Logback`, `jOOQ`, `ActiveMQ`, `ThinkPHP`, `Guzzle`, ~~Discuz!~~, `OpenCenter`, `Wordpress`, **Express**, **Babel**, **Jasmine**, `TypeScript`, `Backbone`, `Highcharts`, ~~ECharts~~, `Underscore`
+* **App Stacks:** **Spring MVC**, **JUnit**, **JMeter**, **Findbugs**, **Apache POI**, `Spark`, `Morphia`, `Logback`, `jOOQ`, `ActiveMQ`, `ThinkPHP`, `Guzzle`, ~~Discuz!~~, `OpenCenter`, `Wordpress`, **Express**, **Babel**, **Jasmine**, `TypeScript`, `Backbone`, `Highcharts`, ~~ECharts~~, `Underscore`
 * **Data Stacks:** **MongoDB**, `GBase 8a`, `Redis`, `MySQL`
 * **DevOps Stacks:** **GitLab**, ~~SVN~~, **Asana**, **Jenkins**, ~~Ant~~, **Maven**, `LAMP`, `nginx`, ~~Grunt~~, **Gulp**, **ELK**, **Docker**
 * **Conclusion:** This was my first time working in an agile internet team. And I have tried lots of teches and system architecture.
